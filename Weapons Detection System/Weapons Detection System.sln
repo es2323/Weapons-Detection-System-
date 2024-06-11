@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Weapons Detection System", "Weapons Detection System\Weapons Detection System.pyproj", "{AAF2D8EA-FE47-4784-A9E2-9B937C4F990D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF2D8EA-FE47-4784-A9E2-9B937C4F990D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF2D8EA-FE47-4784-A9E2-9B937C4F990D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F24D45F-14A1-44C5-A498-D1A21FCE8DA1}
+	EndGlobalSection
+EndGlobal
